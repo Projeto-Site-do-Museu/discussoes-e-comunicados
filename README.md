@@ -17,7 +17,7 @@ Use as **Categorias** para organizar as conversas:
 |-----------------|-------------------------------------------------------|
 | 📢 Anúncios     | Comunicados oficiais e prazos importantes            |
 | 💬 Geral        | Chat aberto                                          |
-| ❓ Dúvidas       | Perguntas sobre tarefas, organização ou tecnologias  |
+| 🤔 Dúvidas       | Perguntas sobre tarefas, organização ou tecnologias  |
 | 💡 Ideias        | Propostas de melhoria, funcionalidades ou visuais    |
 | 🐞 Problemas     | Bugs, impedimentos e dificuldades técnicas           |
 
