@@ -16,6 +16,7 @@ Use as **Categorias** para organizar as conversas:
 | Categoria       | Uso recomendado                                       |
 |-----------------|-------------------------------------------------------|
 | 📢 Anúncios     | Comunicados oficiais e prazos importantes            |
+| 💬 Geral        | Chat aberto                                          |
 | ❓ Dúvidas       | Perguntas sobre tarefas, organização ou tecnologias  |
 | 💡 Ideias        | Propostas de melhoria, funcionalidades ou visuais    |
 | 🐞 Problemas     | Bugs, impedimentos e dificuldades técnicas           |
@@ -26,6 +27,8 @@ Use as **Categorias** para organizar as conversas:
 2. Clique em **"New Discussion"**
 3. Escolha a **categoria mais adequada**
 4. Explique o tema com clareza (links, imagens e código são bem-vindos)
+
+OBS: Discussões sobre issues e bugs é fortemente recomendado que seja trabalhado dentro do repositório específico.  
 
 ---
 
